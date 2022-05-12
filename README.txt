@@ -22,7 +22,6 @@ CCTV5+赛事台,http://111.40.196.25/PLTV/88888888/224/3221225767/index.m3u8?$�
 CCTV4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?$全网蓝光1080P#https://p.ggiptv.com/v/4k.m3u8?$全网蓝光4K#http://iptv.tvfix.org/hls/cctv4k.m3u8?$全网蓝光4K#http://ye23.win/iptv/4k.cctv.php?$全网蓝光4K#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233400/index.m3u8?$咪咕移动1080P
 CCTV8K超高清,http://117.148.179.157:80/PLTV/88888888/224/3221233404/index.m3u8?$咪咕移动1080P#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233350/index.m3u8?$移咪咕动1080P
 ##
-//
 ##卫视高清##
 湖南卫视,http://39.134.65.162/PLTV/88888888/224/3221225506/index.m3u8#http://117.148.179.135/PLTV/88888888/224/3221230206/index.m3u8#http://117.148.179.148/PLTV/88888888/224/3221230824/index.m3u8
 江苏卫视,http://117.148.179.175/PLTV/88888888/224/3221231447/index.m3u8
